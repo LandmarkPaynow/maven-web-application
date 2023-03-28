@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Paynow/finalName>
+		<finalName>Paynow</finalName>
 		
 		<plugins>
 			<plugin>
